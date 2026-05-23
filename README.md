@@ -6,7 +6,7 @@ PWR-SMR-2026-01 is a community research dataset from KEFF Data for non-commercia
 
 ## Dataset Access
 
-The full **80+ GB raw HDF5 dataset** is hosted on Hugging Face:
+The full **90+ GB raw HDF5 dataset** is hosted on Hugging Face:
 
 **Download:** [https://huggingface.co/datasets/keffdata/pwr-smr-2026-01-community](https://huggingface.co/datasets/keffdata/pwr-smr-2026-01-community)
 
