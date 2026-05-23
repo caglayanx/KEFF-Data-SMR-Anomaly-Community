@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+
+.DS_Store
+
+*.h5
+*.hdf5
+*.zip
+*.tar.gz
+*.csv
